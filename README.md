@@ -1,4 +1,4 @@
-# qrowengine
+# Qrow Engine
 Qrow Engine is a small, fast, and easy-to-use game engine made in Lua and SDL2.
 
 It's entirely contained in one file, meaning it's easily portable.
